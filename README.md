@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Raúl López Paander
+# ¡Hola! 👋 Soy Raúl López Panadero
 
 ¡Bienvenido a mi perfil de GitHub! 😄  
 
