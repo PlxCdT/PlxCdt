@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! 😄  
 
-### 🎓 Sobre mí  
+## 🎓 Sobre mí  
 - **Nombre:** Raúl López Paander  
 - **Edad:** 20 años  
 - **Estudiante de:** Sistemas Microinformáticos y Redes (SMR)  
